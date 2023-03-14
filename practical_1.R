@@ -17,3 +17,24 @@ print(my_sqrt)
 a = c(1,2,3,4) + c(0,10,3)
 
 print(a)
+
+#sum of x and y
+print("sum of x")
+sum(x)
+
+
+print("sum of y")
+sum(y)
+
+print("mean of x")
+
+mean(x)
+
+print("mean of y")
+
+mean(y)
+
+w=c(2,7,NA,20)
+sum(w)
+
+sum(w,na.rm = TRUE)
